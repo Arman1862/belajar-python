@@ -1,4 +1,6 @@
-# Stack is an abstract data type which items just can added or deleted on in top side
+# Stack is an abstract data type which(dimana) items just can
+# added or deleted on in top side
+
 # Work with LIFO method, last in first out
 # so we can just delete items first that (were previously entered last)(yang sebelumnya dimasukkan paling terakhir)
 
